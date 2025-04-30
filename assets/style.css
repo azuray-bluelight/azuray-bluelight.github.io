@@ -11,7 +11,7 @@ h1 {
 }
 
 body {
-	font-family: "MyFont 2", serif;
+	font-family: MyFont2, serif;
 	font-size: 1.05em;
 	margin: 30px auto;
 	width: 84%;
