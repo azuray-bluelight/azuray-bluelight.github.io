@@ -17,3 +17,8 @@ body {
 	width: 84%;
 	line-height: 1.2;
 }
+
+@font-face {
+	font-family: "MyFont 2";
+	src: url(Myfont2-Regular.ttf);
+}
