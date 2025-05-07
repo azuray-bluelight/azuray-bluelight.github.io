@@ -3,7 +3,7 @@ html {
 	overflow-x: hidden;
 }
 h1 {
-	font-family: "Georgia", Times;
+	font-family: 'MyFont2', Times;
 	color: #0e0f17;
 	font-weight: bold;
 	font-variant: small-caps;
