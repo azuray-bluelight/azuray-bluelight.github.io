@@ -3,7 +3,7 @@ html {
 	overflow-x: hidden;
 }
 h1 {
-	font-family: 'MyFont2', Times;
+	font-family: Times;
 	color: #0e0f17;
 	font-weight: bold;
 	font-variant: small-caps;
@@ -11,14 +11,9 @@ h1 {
 }
 
 body {
-	font-family: 'MyFont2', serif;
+	font-family: serif;
 	font-size: 180%;
 	margin: 30px auto;
 	width: 84%;
 	line-height: 1.2;
-}
-
-@font-face {
-	font-family: "MyFont2";
-	src: url("Myfont2-Regular.ttf");
 }
